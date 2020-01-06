@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Qinge Xie
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Mobile Systems and Networking Group
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Fudan University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,16 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: mailto:qgxie17@fudan.edu.cn
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/xqgtiti
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a master student in the School of Computer Science in Fudan University. I am advised by Prof. [Yang Chen](https://chenyang03.wordpress.com/), and work with Mobile Systems and Networking (MSN) Group. I visited Aalto University as a research intern in the [Mobile Cloud Computing Group](http://mobilecloud.aalto.fi/), supervised by Prof. [Yu Xiao](https://people.aalto.fi/yu.xiao) in 2018 and visited the University of Chicago as a research intern in [Sand Lab](http://sandlab.cs.uchicago.edu/), supervised by Prof. [Ben Y. Zhao](http://people.cs.uchicago.edu/~ravenben/) and Prof. [Heather Zheng](http://people.cs.uchicago.edu/~htzheng/) in 2019.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests are primarily in systems and security, particularly in mobile systems and computing, security problems for system, deep learning and networking, and applications of deep learning to systems. See my [CV](files/qinge-xie-cv.pdf) here. (Email: qgxie17@fudan.edu.cn)
