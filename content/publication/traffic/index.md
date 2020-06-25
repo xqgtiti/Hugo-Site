@@ -16,7 +16,7 @@ publishDate: 2020-01-06T01:24:49+08:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Main technical tracks of ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp) 2020. (Under Review)"
+publication: "CIKM 2020. (Under Review)"
 publication_short: ""
 
 abstract: ""

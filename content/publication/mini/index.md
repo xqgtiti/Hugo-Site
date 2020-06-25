@@ -16,7 +16,7 @@ publishDate: 2020-01-06T01:25:04+08:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Mobile Computing, 2019. (Under Review) "
+publication: "IEEE Transactions on Mobile Computing, 2020. (Under Major Revision) "
 publication_short: ""
 
 abstract: ""

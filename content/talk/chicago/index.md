@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An Ongoing Work of Adversarial Attack on Graph Data of Real Scenes"
+title: "Adversarial Attack on Graph Data of Real Scenes"
 event: 
 event_url:
 location: "SAND Lab (Systems, Algorithms, Networking and Data) at University of Chicago"
